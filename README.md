@@ -25,7 +25,8 @@ Behaviors
 Pain points
 Motivations
 
-##OUTPUT:
+## OUTPUT:
+
 [ui and ux lab5 (1).pdf](https://github.com/user-attachments/files/20506924/ui.and.ux.lab5.1.pdf)
 
 ## Result:
